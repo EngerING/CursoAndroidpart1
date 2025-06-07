@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">ColorMyViews</string>
+        <string name="box_one">Box One</string>
+        <string name="box_two">Box Two</string>
+        <string name="box_three">Box Three</string>
+        <string name="box_four">Box Four</string>
+        <string name="box_five">Box Five</string>
+        <string name="how_to_play">
+        ¡Cómo jugar!\n\n
+        Toca las cajas y el fondo.\n
+        ¡Ve lo que sucede!
+    </string>
+        <string name="label_text">Información:</string>
+        <string name="long_info_text">
+      el ingeniero enger le gusta comer avena en la mañana.
+    </string>
+        <string name="red_button">ROJO</string>
+        <string name="yellow_button">AMARILLO</string>
+        <string name="green_button">VERDE</string>
+
+</resources>
